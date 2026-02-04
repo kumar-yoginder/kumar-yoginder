@@ -112,5 +112,3 @@ I specialize in identifying critical architectural flaws and implementing high-f
 - **LinkedIn:** https://www.linkedin.com/in/kyogi  
 - **GitHub:** https://github.com/kumar-yoginder  
 - **X / Twitter:** https://x.com/ekasunyaasta
-
-```
