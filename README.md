@@ -74,7 +74,7 @@ YARA • Elasticsearch • Grafana • Prometheus
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kumar-yoginder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![Launch Terminal](https://img.shields.io/badge/Launch%20RE--Lab%20Terminal-▶%20Open-00ffcc?style=for-the-badge&labelColor=0a0a0f)](https://kumar-yoginder.github.io/re-lab-terminal/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-yoginder&layout=compact&theme=dark)
 
